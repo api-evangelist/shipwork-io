@@ -65,4 +65,114 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 shipwork-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://shipwork.io/
+
+**Areas:** Company
+
+## shipwork-io on APIs.io
+
+Everything profiled for shipwork-io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/shipwork-io/](https://apis.io/providers/shipwork-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [shipwork-io Audit API](https://apis.io/apis/shipwork-io/shipwork-io-audit-api/) — The Audit API from shipwork-io — 1 operation(s) for audit.
+- [shipwork-io Bulk Status API](https://apis.io/apis/shipwork-io/shipwork-io-bulk-status-api/) — The Bulk Status API from shipwork-io — 1 operation(s) for bulk status.
+- [shipwork-io Check API](https://apis.io/apis/shipwork-io/shipwork-io-check-api/) — The Check API from shipwork-io — 59 operation(s) for check.
+- [shipwork-io Health API](https://apis.io/apis/shipwork-io/shipwork-io-health-api/) — The Health API from shipwork-io — 1 operation(s) for health.
+- [shipwork-io Score API](https://apis.io/apis/shipwork-io/shipwork-io-score-api/) — The Score API from shipwork-io — 1 operation(s) for score.
+- [shipwork-io Sitemap Generator API](https://apis.io/apis/shipwork-io/shipwork-io-sitemap-generator-api/) — The Sitemap Generator API from shipwork-io — 1 operation(s) for sitemap generator.
+- [shipwork-io Stats API](https://apis.io/apis/shipwork-io/shipwork-io-stats-api/) — The Stats API from shipwork-io — 1 operation(s) for stats.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [shipwork-io Agentic Access](https://apis.io/agentic-access/shipwork-io/shipwork-io-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [shipwork-io API Rules](https://apis.io/rules/shipwork-io/shipwork-io-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [shipwork-io Domain Security](https://apis.io/security/shipwork-io/shipwork-io-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [shipwork-io Plans Pricing](https://apis.io/plans/shipwork-io/shipwork-io-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://shipwork.io/)
+- [API reference](https://shipwork.io/learn/seo-audit-api-guide)
+- [Pricing](https://shipwork.io/pricing)
+- [Changelog](https://shipwork.io/changelog)
+- [Terms of service](https://shipwork.io/terms)
+- [Privacy policy](https://shipwork.io/privacy)
+
+## API Evangelist rating
+
+**Kin Score 38.9** — thin · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 40.8 |
+| Contract governance | 65.5 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 60.0 |
+
+**Agent readiness 30.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/shipwork-io/](https://apis.io/providers/shipwork-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for shipwork-io: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/shipwork-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
